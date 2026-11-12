@@ -1,1 +1,1 @@
-This folder is made for the independent projects made by my own without any help.
+A collection of self-built SQL projects created independently to demonstrate end-to-end problem-solving and querying skills.
